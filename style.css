@@ -34,3 +34,16 @@ h1{
 p{
     width: 350px;
 }
+.um{
+    height: 300px;
+    width: 230px;
+    border-radius: 7px;
+}
+.dois{
+    height: 300px;
+    border-radius: 7px;
+}
+.tres{
+    height: 300px;
+    border-radius: 7px;
+}
