@@ -1,13 +1,24 @@
 body{
     background-image: url(https://i.pinimg.com/564x/7d/fc/0b/7dfc0bc23102a4f435520b32e7544d28.jpg);
     background-size: cover;
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    text-align: center;
+}
+.imagens{
+    margin-left: 570px;
 }
 .um{
     height: 300px;
+    width: 230px;
+    border-radius: 7px;
 }
 .dois{
     height: 300px;
+    border-radius: 7px;
 }
 .tres{
     height: 300px;
+    border-radius: 7px;
 }
