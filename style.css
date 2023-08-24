@@ -35,7 +35,10 @@ p{
     width: 350px;
 }
 .imagens2{
-margin-left: 570px;
+    margin-left: 570px;
+}
+img:hover{
+    transform: scaleX(-1);
 }
 .quatro{
     height: 300px;
