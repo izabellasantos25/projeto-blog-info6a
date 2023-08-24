@@ -22,3 +22,15 @@ h1{
     height: 300px;
     border-radius: 7px;
 }
+
+.sobre{
+    text-align: center;
+    width: 450px;
+    margin-left: 780px;
+}
+.gosto{
+    width: 350px;
+}
+p{
+    width: 350px;
+}
